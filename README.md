@@ -1,4 +1,4 @@
-# Digitial-System-Design-Image-process-
+# Digitial-System-Design-Image-process
 Using Verilog to process image
 
 Language: Matlab, Verilog
