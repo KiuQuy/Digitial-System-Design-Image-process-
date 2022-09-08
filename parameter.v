@@ -1,12 +1,11 @@
-/*************************** **********************************************/
-/*************************** Definition file ******************************/
-/*************************** **********************************************/
-// By FPGA4student.com
-`define INPUTFILENAME		 "kodim23.hex" // Input file name
-`define OUTPUTFILENAME		 "output.bmp"		// Output file name
+`define INPUTFILENAME "kodim23.hex"
+`define OUTPUTFILENAME "output.bmp"
 
-// Choose the operation of code by delete // in the beginning of the selected line
+
+// define althogrim process image
 
 //`define BRIGHTNESS_OPERATION
-`define INVERT_OPERATION
-//`define THRESHOLD_OPERATION 
+//`define INVERT_OPERATION
+ `define THRESHOLD_OPERATION
+
+			  
